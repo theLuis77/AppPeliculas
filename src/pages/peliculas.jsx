@@ -69,7 +69,7 @@ const Peliculas = () => {
                 })}
             </div>
             <div className='btn-content'>
-                <button type="button" className="btn btn-primary" onClick={() => setPage(page - 1)} disabled={page === 1}>Anterior</button>
+                <button type="button" className="btn btn-primary" onClick={() => setPage(page - 1)} disabled={page === 1}>Atras </button>
                 <button type="button" className="btn btn-primary" onClick={() => setPage(page + 1)} disabled={page >= totalPages}>Siguiente</button>
 
             </div>

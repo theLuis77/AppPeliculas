@@ -16,8 +16,8 @@ const App = () => {
       {/* <Navbar/> */}
       <nav className='NavGlobal'>
             <Link to="/">Home</Link>
-            <Link to="/series">Mejores Series</Link>
-            <Link to="/peliculas">Mejores Peliculas</Link>
+            <Link to="/series">Las Megores  Series</Link>
+            <Link to="/peliculas">Las Megores  Peliculas</Link>
         </nav>
       <div className='section-page'>
       <Routes>

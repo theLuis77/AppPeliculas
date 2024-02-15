@@ -29,11 +29,11 @@ p{
 }
 
 .front {
-    background: #0579f9 ; /* Color de fondo para demostración */
+    background: #046bd9 ; /* Color de fondo para demostración */
 }
 
 .back {
-    background: #0579f9 ; /* Color de fondo para demostración */
+    background: #0159b7 ; /* Color de fondo para demostración */
     transform: rotateY(180deg);
 }
 
@@ -62,10 +62,10 @@ p{
     width: 100%;
 }
 h3{
-    color: #0579f9;
+    color: #043b76;
 }
 .card-body-home{
-    background-color: #0579f9;
+    background-color: #124b89;
 }
 
 .container-pages{
@@ -104,14 +104,14 @@ padding: 20px;
 }
 .NavGlobal{
     height: 50px;
-    background-color:  #424242 ;
+    background-color:  #3c3030 ;
     display: flex;
     justify-content: space-around;
     align-items: center;
 
 }
 .NavGlobal a{
-   color: #fff;
+   color: #6b5454;
    text-decoration: none;
 }
 

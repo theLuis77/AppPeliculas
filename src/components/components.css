@@ -6,9 +6,9 @@
   position: fixed;
   top: 0;
   width: 100%;
-  background-color: #282c34;
+  background-color: #1d2431;
   padding: 20px;
-  color: white;
+  color: rgb(157, 140, 140);
   height: 90px;
 }
 
@@ -22,9 +22,9 @@
 
 
 .App-footer {
-  background-color: #282c34;
+  background-color: #2d333f;
   padding: 20px;
-  color: white;
+  color: rgb(230, 207, 207);
   position: fixed;
   width: 100%;
   bottom: 0;
@@ -79,14 +79,14 @@
 .top-section {
   display: flex;
   padding: 10px;
-  background-color: #0579f9 ;
+  background-color: #0a6bd2 ;
   height: 80px;
-  border-bottom: 2px solid black;
+  border-bottom: 2px solid rgb(29, 27, 27);
   justify-content: space-between;
 
 }
 .titulo{
-  color:#fff;
+  color:#cac1c1;
 }
 .logo-contenedor{
   align-items: center;
@@ -102,8 +102,8 @@
   height: 100%;
   padding: 10px 20px ;
   width: 100;
-  border-bottom: 2px solid #ccc;  
-  background-color: #F7F7F8;
+  border-bottom: 2px solid #a29191;  
+  background-color: #a5a5c8;
   justify-content: space-around;
 }
 
@@ -112,7 +112,7 @@
   padding-top: 30px;
   padding: 10px;
   background-color: transparent;
-  color: #1c546c;
+  color: #75c9ed;
   border: none;
   cursor: pointer;
   text-align: left;
@@ -147,7 +147,7 @@ body {
 }
 
 .item-link:hover {
-  background: #ddd;
+  background: #7f7171;
   color: black;
 }
 
