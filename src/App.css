@@ -7,11 +7,11 @@
     perspective: 1000px;
 }
 p{
-    color: #fff;
+    color: #ffffff;
 
 }
 .descripcion{
-    color: black;
+    color: rgb(15, 15, 198);
 }
 .movies-container{
     display: flex;
@@ -29,11 +29,11 @@ p{
 }
 
 .front {
-    background: #046bd9 ; /* Color de fondo para demostración */
+    background: #e60909 ; /* Color de fondo para demostración */
 }
 
 .back {
-    background: #0159b7 ; /* Color de fondo para demostración */
+    background: #e60909 ; /* Color de fondo para demostración */
     transform: rotateY(180deg);
 }
 
@@ -62,10 +62,10 @@ p{
     width: 100%;
 }
 h3{
-    color: #043b76;
+    color: #efeeee;
 }
 .card-body-home{
-    background-color: #124b89;
+    background-color: #760303;
 }
 
 .container-pages{
