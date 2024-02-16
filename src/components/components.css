@@ -112,7 +112,7 @@
   padding-top: 30px;
   padding: 10px;
   background-color: transparent;
-  color: #ed7575;
+  color: #75c9ed;
   border: none;
   cursor: pointer;
   text-align: left;
@@ -218,7 +218,7 @@ body {
   animation-delay: -0.3s;
 }
 .lds-spinner div:nth-child(10) {
-  transform: rotate(270deg); 
+  transform: rotate(270deg);
   animation-delay: -0.2s;
 }
 .lds-spinner div:nth-child(11) {
